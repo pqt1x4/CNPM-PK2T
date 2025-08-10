@@ -1,0 +1,26 @@
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDTO\bin\Release\net8.0\ManageBookDTO.deps.json
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDTO\bin\Release\net8.0\ManageBookDTO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDTO\bin\Release\net8.0\ManageBookDTO.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.csproj.AssemblyReference.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.AssemblyInfoInputs.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.AssemblyInfo.cs
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.csproj.CoreCompileInputs.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.sourcelink.json
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\refint\ManageBookDTO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ref\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDTO\bin\Release\net8.0\ManageBookDTO.deps.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDTO\bin\Release\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDTO\bin\Release\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.csproj.AssemblyReference.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.AssemblyInfoInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.AssemblyInfo.cs
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.csproj.CoreCompileInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.sourcelink.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\refint\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDTO\obj\Release\net8.0\ref\ManageBookDTO.dll
