@@ -1,0 +1,36 @@
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\ManageBookBus.deps.json
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\ManageBookBus.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\ManageBookBus.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\ManageBookDTO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\MangeBookDAO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\MangeBookDAO.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\ManageBookDTO.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.csproj.AssemblyReference.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.AssemblyInfoInputs.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.AssemblyInfo.cs
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.csproj.CoreCompileInputs.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.sourcelink.json
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBo.98C5E0E5.Up2Date
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\refint\ManageBookBus.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ref\ManageBookBus.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\ManageBookBus.deps.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\ManageBookBus.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\ManageBookBus.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\bin\Release\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.csproj.AssemblyReference.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.AssemblyInfoInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.AssemblyInfo.cs
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.csproj.CoreCompileInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.sourcelink.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBo.98C5E0E5.Up2Date
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\refint\ManageBookBus.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ManageBookBus.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookBus\obj\Release\net8.0\ref\ManageBookBus.dll
