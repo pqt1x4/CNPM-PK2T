@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="FormDoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLichSuMuaHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMenuNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMenuQTV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPhanQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormQLKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormQTV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSignInCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSignInEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSignUpCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormThongTinCaNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
