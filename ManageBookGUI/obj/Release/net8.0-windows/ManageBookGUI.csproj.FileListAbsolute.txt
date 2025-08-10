@@ -1,0 +1,102 @@
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.exe
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.deps.json
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.runtimeconfig.json
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\Aspose.Words.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\Autofac.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\SkiaSharp.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookBus.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookDTO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\MangeBookDAO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookBus.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\MangeBookDAO.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookDTO.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.csproj.AssemblyReference.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormHoaDon.resources
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormKH.resources
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormMain.resources
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormNV.resources
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormSignInCustomer.resources
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormSignInEmployee.resources
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormSignUpCustomer.resources
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormThongTinCaNhan.resources
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.Properties.Resources.resources
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.csproj.GenerateResource.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.AssemblyInfoInputs.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.AssemblyInfo.cs
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.csproj.CoreCompileInputs.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.sourcelink.json
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBo.D32059B1.Up2Date
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\refint\ManageBookGUI.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.genruntimeconfig.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ref\ManageBookGUI.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.dll.manifest
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.application
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.dll.manifest
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.application
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.exe
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.deps.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.runtimeconfig.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\Aspose.Words.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\Autofac.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\SkiaSharp.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookBus.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookBus.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.csproj.AssemblyReference.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormHoaDon.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormKH.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormMain.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormNV.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormSignInCustomer.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormSignInEmployee.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormSignUpCustomer.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.FormThongTinCaNhan.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.Properties.Resources.resources
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.csproj.GenerateResource.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.AssemblyInfoInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.AssemblyInfo.cs
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.csproj.CoreCompileInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.sourcelink.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBo.D32059B1.Up2Date
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\refint\ManageBookGUI.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.genruntimeconfig.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ref\ManageBookGUI.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.dll.manifest
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\bin\Release\net8.0-windows\ManageBookGUI.application
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.dll.manifest
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookGUI\obj\Release\net8.0-windows\ManageBookGUI.application
