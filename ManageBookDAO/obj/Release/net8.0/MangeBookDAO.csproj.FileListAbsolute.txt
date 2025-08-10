@@ -1,0 +1,32 @@
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Release\net8.0\MangeBookDAO.deps.json
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Release\net8.0\MangeBookDAO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Release\net8.0\MangeBookDAO.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Release\net8.0\ManageBookDTO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Release\net8.0\ManageBookDTO.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.sourcelink.json
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\refint\MangeBookDAO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\ref\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\bin\Release\net8.0\MangeBookDAO.deps.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\bin\Release\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\bin\Release\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\bin\Release\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\bin\Release\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.sourcelink.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\refint\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Compare Code\QLBOOK\ManageBookDAO\obj\Release\net8.0\ref\MangeBookDAO.dll

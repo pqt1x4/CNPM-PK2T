@@ -1,0 +1,425 @@
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Finally_LTWin\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\ngoyn\OneDrive\Hình ảnh\Ảnh chụp màn hình\Day 12 - WinForms\Finally_LTW\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\Code\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\baou6\Downloads\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\ngoyn\OneDrive\Máy tính\NewUpdate_CodeLTW\NewUpdate_CodeLTW\NewUpdate_CodeLTW\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\ngoyn\OneDrive\Hình ảnh\Cuộn phim\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\Zalo\Update\29122024_UpdateFormKH\Compare Code_2\Compare Code\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\ngoyn\Downloads\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+C:\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\College\IT source\C#\Lập trình windows\Đề tài cuối kì\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+C:\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.sourcelink.json
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\Update_LTW_Finally\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally_1\Topic_ManageBook_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\ngoyn\Downloads\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V3\LTW_Finally_V1\LTW_Finally\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\ngoyn\Downloads\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\LTW_Finally_V3\LTW_Finally_V3\QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\Document\HCMUE\Năm II\Lập trình windows\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+C:\Users\84326\Downloads\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+C:\Users\84326\Downloads\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+C:\Users\84326\Downloads\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\LTWin\FINALLY\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\HP\Downloads\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+D:\LTWin\DoAnCK\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\HP\Downloads\LTW UP 3h54 2907\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.deps.json
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.dll
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.dll
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\bin\Debug\net8.0\ManageBookDTO.pdb
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.AssemblyInfo.cs
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBoo.71C4E9FC.Up2Date
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.dll
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\refint\MangeBookDAO.dll
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\MangeBookDAO.pdb
+C:\Users\HP\Downloads\[LTW] ĐỒ ÁN CUỐI KỲ_8.5\LTW UP\LTW_Finally_V4\Source_Code_QLBOOK\ManageBookDAO\obj\Debug\net8.0\ref\MangeBookDAO.dll
